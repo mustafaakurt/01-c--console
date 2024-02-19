@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="01-c#-basics.cs" />
     <Compile Include="02-c#-conditional_statements.cs" />
+    <Compile Include="03-c#-loops.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
