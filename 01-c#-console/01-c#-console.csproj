@@ -49,6 +49,7 @@
     <Compile Include="05-c#-methods.cs" />
     <Compile Include="07-c#-encapsulation.cs" />
     <Compile Include="08-c#-inheritance.cs" />
+    <Compile Include="09-c#-polymorphism.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
