@@ -42,10 +42,30 @@ namespace _01_c__console
             // int sayıları dönüştürülebilir
             int num3 = Convert.ToInt32((Console.ReadKey()));
 
-
             // Double 
             double doub1 = 3.14;// double değişkeni tam sayıları tutar
-            
+
+            // Char
+            char char1 = 'A'; // char değişkeni tek karakter alır
+
+            // Float
+            float float1 = 3.14f; // float değişkeni ondalıklı sayıları tutar
+
+            // Decimal
+            decimal dec1 = 3.14m; // decimal değişkeni ondalıklı sayıları tutar
+
+            // Byte
+            byte byte1 = 255; // byte değişkeni 0-255 arasındaki sayıları tutar
+
+            // Sbyte
+            sbyte sbyte1 = 127; // sbyte değişkeni -128 - 127 arasındaki sayıları tutar
+
+            // Short
+            short short1 = 32767; // short değişkeni -32768 - 32767 arasındaki sayıları tutar
+
+            // Boolean
+            bool bool1 = true; // boolean değişkeni true ya da false değerlerini alır
+
             Console.Read();
 
         }
